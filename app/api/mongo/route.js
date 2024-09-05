@@ -1,3 +1,3 @@
-import { POST } from '../../../lib/database';
+import { POST } from '@/lib/database';
 
 export { POST };
