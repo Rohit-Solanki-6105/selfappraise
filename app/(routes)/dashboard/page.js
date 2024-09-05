@@ -5,7 +5,7 @@ import { useUser } from '@clerk/clerk-react';
 
 import { Button } from "../../../@/components/ui/button";
 import { Card } from "../../../@/components/ui/card";
-import { cn } from "../../../lib/utils";
+import { cn } from "@/lib/utils";
 import { Settings, LucidePictureInPicture2, UserCircle, FilePenLineIcon, ActivityIcon, BookMarkedIcon, ExternalLinkIcon, MoreHorizontal } from "lucide-react";
 import { useRouter } from "next/navigation";
 import { HashLoader } from 'react-spinners'
